@@ -1,0 +1,1 @@
+Web application using MERN stack to track weekly tasks
